@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/02_WORK/05_CODING/MLOps_zoomcamp_2024/02_experiment_tracking/homework/mlruns/0/0ac8a93f51e24e1580b5858d451fde3f/artifacts
+end_time: 1716408078453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ac8a93f51e24e1580b5858d451fde3f
+run_name: magnificent-shad-533
+run_uuid: 0ac8a93f51e24e1580b5858d451fde3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716408017400
+status: 3
+tags: []
+user_id: cesar

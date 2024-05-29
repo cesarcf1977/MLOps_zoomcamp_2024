@@ -151,3 +151,7 @@ models/preprocessor.b
 02_experiment_tracking/homework/data/green_tripdata_2023-01.parquet
 02_experiment_tracking/homework/data/green_tripdata_2023-02.parquet
 02_experiment_tracking/homework/data/green_tripdata_2023-03.parquet
+02_experiment_tracking/running-mlflow-examples/scenario-1.ipynb
+02_experiment_tracking/running-mlflow-examples/scenario-2.ipynb
+02_experiment_tracking/running-mlflow-examples/scenario-3.ipynb
+02_experiment_tracking/running-mlflow-examples/mlruns/0/meta.yaml
